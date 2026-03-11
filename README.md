@@ -39,6 +39,12 @@ The user can dismiss the overlay and monitoring continues.
 
 ---
 
+## Demo Video
+
+Click the image below to watch the demo.
+
+[![Watch Demo](https://raw.githubusercontent.com/mdAkhtar21/watchdog/main/Image/MainScreen.jpeg)](https://raw.githubusercontent.com/mdAkhtar21/watchdog/main/video/watchdog_demo.mp4)
+
 ## How it Works
 
 The app uses Android `UsageStatsManager` to detect which application is currently running in the foreground.  
